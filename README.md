@@ -33,7 +33,7 @@ This repository serves as:
 
 ## 📈 Progress
 
-✅ Solved: 0 / 150 problems  
+✅ Solved: 11 / 150 problems  
 🛠️ Actively updating daily
 
 ---
